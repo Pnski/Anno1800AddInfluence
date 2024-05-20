@@ -19,17 +19,17 @@
     "Taiwanese": "Cheat"
   },
   "ModName": {
-    "Chinese": "AddInfluence",
-    "English": "AddInfluence",
-    "French": "AddInfluence",
-    "German": "AddInfluence",
-    "Italian": "AddInfluence",
-    "Japanese": "AddInfluence",
-    "Korean": "AddInfluence",
-    "Polish": "AddInfluence",
-    "Russian": "AddInfluence",
-    "Spanish": "AddInfluence",
-    "Taiwanese": "AddInfluence"
+    "Chinese": "Add Influence",
+    "English": "Add Influence",
+    "French": "Add Influence",
+    "German": "Add Influence",
+    "Italian": "Add Influence",
+    "Japanese": "Add Influence",
+    "Korean": "Add Influence",
+    "Polish": "Add Influence",
+    "Russian": "Add Influence",
+    "Spanish": "Add Influence",
+    "Taiwanese": "Add Influence"
   },
   "Description": {
     "English": null,
@@ -46,7 +46,7 @@
   },
   "KnownIssues": null,
   "DLCDependencies": null,
-  "CreatorName": "Pnski,tschd",
+  "CreatorName": "Pnski",
   "CreatorContact": null,
   "Image": null
 }
